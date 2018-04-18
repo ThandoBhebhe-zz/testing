@@ -14,7 +14,7 @@ public class Main {
             depotA = new Depot();
           //  System.out.println(depotA);
         }
-
+//lkhskfjlkjsdf
         System.out.println(depotA.getProduct());
     }
 
